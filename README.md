@@ -20,8 +20,6 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Thanhdat0142013&theme=tokyonight" height="195" alt="Top Langs" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Thanhdat0142013&show_icons=true&theme=tokyonight&count_private=true" height="200" alt="GitHub Stats" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Thanhdat0142013&theme=tokyonight" alt="Summary Card" width="100%" />
   </p>
 
